@@ -1,16 +1,25 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.tenor.com/tsjSWtcWFeEAAAAi/curiouspiyuesh-piyueshmodi.gif" width="200" />
+  <img src="https://media.tenor.com/c1_NM0wDAvAAAAAj/data-datos.gif" width ="100"/>
+</div>
 
-<!--
-**SunGajiwala/SunGajiwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+  <a href="https://github.com/SunGajiwala">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sun-gajiwala/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://sungajiwala54.medium.com">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<h1 align = "center">
+  Hello there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Currently working as a Data Engineer at K P Sanghvi Inc.
+
+⚡ My data engineering tasks leverage Microsoft Azure Servies, Python and SQL for building ETL pipelines.
