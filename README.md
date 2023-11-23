@@ -1,6 +1,5 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/tsjSWtcWFeEAAAAi/curiouspiyuesh-piyueshmodi.gif" width="200" />
-  <img src="https://media.tenor.com/c1_NM0wDAvAAAAAj/data-datos.gif" width ="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -16,16 +15,24 @@
 </div>
 
 <h1 align = "center">
-  Hello there
+  Hello There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-⚡ Currently working as a Data Engineer at K P Sanghvi Inc.
+<div align="center">
+  
+### 💼 About Me:
 
-⚡ My data engineering tasks leverage Microsoft Azure Servies, Python and SQL for building ETL pipelines.
+🔭 I'm currently working as a Data Engineer at K P Sanghvi Inc, where I specialize in building efficient and scalable ETL pipelines using a combination of Microsoft Azure Services, Python, and SQL.
+
+🌱 Passionate about data-driven decision making, I'm constantly exploring new technologies and methodologies to improve data processing and analytics.
+
+👯 I'm keen on collaborating on projects involving Big Data, Cloud Computing, and Machine Learning.
+
+🎓 Always learning, always growing!
 
 ### :hammer_and_wrench: Languages and Tools :
-
+</div>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height ="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MSSQL" width="40" height= "40"/>&nbsp;
@@ -35,4 +42,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungajiwala&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
