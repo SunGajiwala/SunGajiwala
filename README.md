@@ -23,7 +23,7 @@
   
 ### 💼 About Me:
 
-🔭 I'm currently working as a Data Engineer at K P Sanghvi Inc, where I specialize in building efficient and scalable ETL pipelines using a combination of Microsoft Azure Services, Python, and SQL.
+🔭 I'm currently working as a Data Analyst at K P Sanghvi Inc, where I specialize in building efficient and scalable ETL pipelines using a combination of Microsoft Azure Services, Python, and SQL.
 
 🌱 Passionate about data-driven decision making, I'm constantly exploring new technologies and methodologies to improve data processing and analytics.
 
