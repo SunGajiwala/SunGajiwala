@@ -1,8 +1,8 @@
-<div id="header" align="center">
+<div id="header">
   <img src="https://media.tenor.com/tsjSWtcWFeEAAAAi/curiouspiyuesh-piyueshmodi.gif" width="200" />
 </div>
 
-<div id="badges" align="center">
+<div id="badges">
   <a href="https://github.com/SunGajiwala">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
@@ -14,12 +14,12 @@
   </a>
 </div>
 
-<h1 align = "center">
+<h2>
   Hello There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</h2>
 
-<div align="center">
+<div>
   
 ### 💼 About Me:
 
@@ -31,11 +31,9 @@
 
 🎓 Always learning, always growing!
 
----
-
 ### 🛠️ Languages and Tools :
 </div>
-<div align="center">
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height ="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MSSQL" width="40" height= "40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" title="apachespark" alt="spark" width="50" height ="50"/>&nbsp;
