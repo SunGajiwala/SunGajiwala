@@ -1,8 +1,12 @@
-<div id="header">
-  <img src="https://media.tenor.com/tsjSWtcWFeEAAAAi/curiouspiyuesh-piyueshmodi.gif" width="200" />
+<div id="header", align = "center">
+  <img src="https://media1.tenor.com/m/SH4pqHP94cgAAAAC/data-sellcom-data.gif" width="180" />
+  <img src="https://media1.tenor.com/m/SH4pqHP94cgAAAAC/data-sellcom-data.gif" width="180" />
+  <img src="https://media1.tenor.com/m/SH4pqHP94cgAAAAC/data-sellcom-data.gif" width="180" />
+  <img src="https://media1.tenor.com/m/SH4pqHP94cgAAAAC/data-sellcom-data.gif" width="180" />
+  <img src="https://media1.tenor.com/m/SH4pqHP94cgAAAAC/data-sellcom-data.gif" width="180" />
 </div>
 
-<div id="badges">
+<div id="badges", align = "center">
   <a href="https://github.com/SunGajiwala">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
