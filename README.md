@@ -1,9 +1,5 @@
 <div id="header", align = "center">
-  <img src="https://media1.tenor.com/m/SH4pqHP94cgAAAAC/data-sellcom-data.gif" width="180" />
-  <img src="https://media1.tenor.com/m/SH4pqHP94cgAAAAC/data-sellcom-data.gif" width="180" />
-  <img src="https://media1.tenor.com/m/SH4pqHP94cgAAAAC/data-sellcom-data.gif" width="180" />
-  <img src="https://media1.tenor.com/m/SH4pqHP94cgAAAAC/data-sellcom-data.gif" width="180" />
-  <img src="https://media1.tenor.com/m/SH4pqHP94cgAAAAC/data-sellcom-data.gif" width="180" />
+  <img src="Gemini_Generated_Image_ftra58ftra58ftra.jpeg" width="180" />
 </div>
 
 <div id="badges", align = "center">
@@ -25,15 +21,9 @@
 
 <div>
   
-### 💼 About Me:
+I'm currently working as a Data Analyst at K P Sanghvi Inc, where I specialize in building efficient and scalable ETL pipelines using a combination of Microsoft Azure Services, Python, and SQL. Passionate about data-driven decision making, I'm constantly exploring new technologies and methodologies to improve data processing and analytics. I'm keen on collaborating on projects involving Big Data, Cloud Computing, and Machine Learning.
 
-🔭 I'm currently working as a Data Analyst at K P Sanghvi Inc, where I specialize in building efficient and scalable ETL pipelines using a combination of Microsoft Azure Services, Python, and SQL.
-
-🌱 Passionate about data-driven decision making, I'm constantly exploring new technologies and methodologies to improve data processing and analytics.
-
-👯 I'm keen on collaborating on projects involving Big Data, Cloud Computing, and Machine Learning.
-
-🎓 Always learning, always growing!
+Always learning, always growing!
 
 ### 🛠️ Languages and Tools :
 </div>
