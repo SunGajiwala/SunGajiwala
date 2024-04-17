@@ -1,5 +1,6 @@
 <h3>
-  Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I am Sun Gajiwala !
+  Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  <p> I am Sun Gajiwala ! </p>
 </h3>
 
 <div id="badges">
@@ -12,10 +13,18 @@
   <a href="https://sungajiwala54.medium.com">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
+  <a href="mailto:sungajiwala54@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.datascienceportfol.io/sungajiwala">
+    <img src="https://img.shields.io/badge/Data%20Science%20Portfolio-0077B5?style=for-the-badge&logoColor=white" alt="Data Science Portfolio Badge"/>
+  </a>
+  <a href="https://twitter.com/SunGajiwala">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
 </div>
 
 ---
-
+    
 <div>
   
 Currently working as a Data Engineer at K P Sanghvi Inc, where I specialize in building efficient and scalable ETL pipelines using a combination of Microsoft Azure Services, AWS, Python, and SQL. 
