@@ -1,6 +1,6 @@
-<h2>
-  Hello There. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I am Sun Gajiwala ☼
-</h2>
+<h3>
+  Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I am Sun Gajiwala !
+</h3>
 
 <div id="badges">
   <a href="https://github.com/SunGajiwala">
@@ -14,6 +14,8 @@
   </a>
 </div>
 
+---
+
 <div>
   
 Currently working as a Data Engineer at K P Sanghvi Inc, where I specialize in building efficient and scalable ETL pipelines using a combination of Microsoft Azure Services, AWS, Python, and SQL. 
@@ -23,6 +25,8 @@ Passionate about data-driven decision making, I'm constantly exploring new techn
 Always learning, always growing!
 
 </div>
+
+---
 
 ### 🛠️ Toolbox :
 <div>
@@ -35,6 +39,8 @@ Always learning, always growing!
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" title="Git" alt="JavaScript" width="50" height="50"/>&nbsp;
 </div>
+
+---
 
 ### 📖 Articles :
 
