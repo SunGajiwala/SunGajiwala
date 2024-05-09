@@ -59,6 +59,8 @@ Always learning, always growing!
 ### 📖 Articles :
 
 <div>
+  
+- <a href="https://sungajiwala54.medium.com/unlocking-infrastructure-as-code-with-terraform-building-aws-ec2-instances-da7eeeb573c5">Unlocking Infrastructure as Code with Terraform: Building AWS EC2 Instances</a>
 
 - <a href="https://medium.com/@sungajiwala54/automating-attachment-management-in-airtable-the-watchdog-file-uploader-project-b48cde44cb22">Automate Attachments in Airtable (using Watchdog)</a>
 
